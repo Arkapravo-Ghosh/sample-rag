@@ -36,7 +36,7 @@ starlette==1.0.1
 sympy==1.13.1
 threadpoolctl==3.6.0
 tokenizers==0.21.1
-torch==2.8.0
+torch==2.12.0
 tqdm==4.67.1
 transformers==5.0.0rc3
 typing-inspection==0.4.0
